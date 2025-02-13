@@ -35,3 +35,4 @@ class Bank(User):
     def view_balance(self):
         self.show_details()
         print("Account balance: €", self.balance)
+#Rtuisk 1302
